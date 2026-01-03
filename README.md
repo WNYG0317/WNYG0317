@@ -1,5 +1,11 @@
 ## Hi there 👋
-![My Skills](https://skillicons.dev/icons?i=js,html,css)
+
+## 🛠 Skills
+![My Skills](https://skillicons.dev/icons?i=js,html,css,pytorch,py,r,sqlite)(https://skillicons.dev)
+## 📚 Studying
+![My Skills](https://skillicons.dev/icons?i=aws,azure,gcp,java)(https://skillicons.dev)
+## 📔 Tools&SNS
+![My Skills](https://skillicons.dev/icons?i=anaconda,discord,github,idea,instagram,linkedin,notion,pycharm,vscode,twitter,webstorm)https://skillicons.dev/ico
 
 <!--
 **WNYG0317/WNYG0317** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
