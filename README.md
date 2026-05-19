@@ -44,9 +44,4 @@ AI / Forecasting / Quantitative Research
   [Program Page](https://weblab.t.u-tokyo.ac.jp/lecture/course-list/financial-machin-learning/)
 
   
-## 📊 GitHub Stats
-![Rainbow Line](assets/rainbow-line.svg)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=WNYG0317)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WNYG0317)
