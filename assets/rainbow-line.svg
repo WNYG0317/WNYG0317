@@ -1,0 +1,13 @@
+<svg width="760" height="4" viewBox="0 0 760 4" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="760" height="4" rx="2" fill="url(#rainbow)" />
+  <defs>
+    <linearGradient id="rainbow" x1="0" y1="2" x2="760" y2="2" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FF4B4B" />
+      <stop offset="0.18" stop-color="#FF9F1C" />
+      <stop offset="0.35" stop-color="#FFE66D" />
+      <stop offset="0.52" stop-color="#2EC4B6" />
+      <stop offset="0.72" stop-color="#3A86FF" />
+      <stop offset="1" stop-color="#8338EC" />
+    </linearGradient>
+  </defs>
+</svg>

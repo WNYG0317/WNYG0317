@@ -1,23 +1,32 @@
-## Hi there 👋
+# Hi there 👋
+![Rainbow Line](assets/rainbow-line.svg)
+AI / Forecasting / Quantitative Research
 
-## 🛠 Skills
-![My Skills](https://skillicons.dev/icons?i=js,html,css,pytorch,py,r,sqlite)(https://skillicons.dev)
-## 📚 Studying
-![My Skills](https://skillicons.dev/icons?i=aws,azure,gcp,java)(https://skillicons.dev)
-## 📔 Tools&SNS
-![My Skills](https://skillicons.dev/icons?i=anaconda,discord,github,idea,instagram,linkedin,notion,pycharm,vscode,twitter,webstorm)https://skillicons.dev/ico
+## Interests
+![Rainbow Line](assets/rainbow-line.svg)
+- Time Series Forecasting
+- Econometrics
+- Financial Machine Learning
+- Statistical Modeling
+- Business Analytics
 
-<!--
-**WNYG0317/WNYG0317** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Tech Stack
+![Rainbow Line](assets/rainbow-line.svg)
+### 🛠 Skills
+---
+![Skills](https://skillicons.dev/icons?i=py,pytorch,r,sqlite,git,github&perline=7)
 
-Here are some ideas to get you started:
+### 📚 Studying
+---
+![Studying](https://skillicons.dev/icons?i=aws,gcp,azure,java,docker,linux,tensorflow&perline=7)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📔 Tools & SNS
+---
+![Tools](https://skillicons.dev/icons?i=anaconda,github,vscode,pycharm,idea,notion,linkedin,discord,twitter,instagram&perline=5)
+
+## 📊 GitHub Stats
+![Rainbow Line](assets/rainbow-line.svg)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=WNYG0317&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WNYG0317&layout=compact&theme=tokyonight)
