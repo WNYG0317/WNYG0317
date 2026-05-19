@@ -1,5 +1,6 @@
 # Hi there 👋
 ![Rainbow Line](assets/rainbow-line.svg)
+
 AI / Forecasting / Quantitative Research
 
 ## Interests
