@@ -8,7 +8,7 @@ AI / Forecasting / Quantitative Research
 - Time Series Forecasting
 - Econometrics
 - Financial Machine Learning
-- Statistical Modeling
+- AI Engineering 
 - Business Analytics
 
 ## Tech Stack
