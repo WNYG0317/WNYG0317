@@ -33,6 +33,14 @@ AI / Forecasting / Quantitative Research
 - AI Business Insights 2026  
   (Matsuo-Iwasawa Laboratory × PwC Japan)  
   [Program Page](https://weblab.t.u-tokyo.ac.jp/lecture/course-list/ai-business-insights/)
+
+- Financial Machine Learning 2026  
+  (Matsuo-Iwasawa Laboratory)  
+  [Program Page](https://weblab.t.u-tokyo.ac.jp/lecture/course-list/financial-machin-learning/)
+
+- Deep Learning Basic 2026  
+  (Matsuo-Iwasawa Laboratory)  
+  [Program Page](https://weblab.t.u-tokyo.ac.jp/lecture/course-list/deep-learning/)
   
 ## 🚧 Working on
 ![Rainbow Line](assets/rainbow-line.svg)
